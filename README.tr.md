@@ -20,11 +20,16 @@
 
 ## Ekran Görüntüleri
 
-| Arena Savaşı & Kombo Sistemi | Siberpunk Yükseltme Kartları |
+<div align="center">
+  <img src="docs/screenshots/01_main_menu.png" alt="Neon Arena Ana Menü" width="85%" />
+  <p><em>Ana Menü — Protokol Zero Brifingi, Hangar ve Kalıcı Mağaza</em></p>
+</div>
+
+| Arena Savaşı & Eğimli Siberpunk HUD | Siber Hangar — Gemi Seçimi & İstatistikler |
 | :---: | :---: |
-| ![Arena Savaşı](docs/screenshots/01_gameplay.png) | ![Yükseltme Kartları](docs/screenshots/02_upgrade_cards.png) |
-| **Siber Hangar — Gemi Seçimi** | **Gemiye Özel Kalıcı Mağaza** |
-| ![Siber Hangar](docs/screenshots/03_cyber_hangar.png) | ![Kalıcı Mağaza](docs/screenshots/04_permanent_shop.png) |
+| ![Arena Savaşı](docs/screenshots/02_gameplay.png) | ![Siber Hangar](docs/screenshots/03_cyber_hangar.png) |
+| **Gemiye Özel Kalıcı Mağaza** | **Duraklatma Menüsü & Müzik/Ses Ayarları** |
+| ![Kalıcı Mağaza](docs/screenshots/04_permanent_shop.png) | ![Duraklatma Menüsü](docs/screenshots/05_pause_menu.png) |
 
 ---
 

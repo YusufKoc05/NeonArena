@@ -20,11 +20,16 @@
 
 ## Screenshots
 
-| Arena Combat & Combo System | Cyberpunk Upgrade Cards |
+<div align="center">
+  <img src="docs/screenshots/01_main_menu.png" alt="Neon Arena Main Menu" width="85%" />
+  <p><em>Main Menu — Protokol Zero Briefing, Hangar & Permanent Shop</em></p>
+</div>
+
+| Arena Combat & Slanted Cyberpunk HUD | Cyber Hangar — Ship Selection & Stats |
 | :---: | :---: |
-| ![Arena Gameplay](docs/screenshots/01_gameplay.png) | ![Upgrade Cards](docs/screenshots/02_upgrade_cards.png) |
-| **Cyber Hangar — Ship Selection** | **Per-Ship Permanent Upgrade Shop** |
-| ![Cyber Hangar](docs/screenshots/03_cyber_hangar.png) | ![Permanent Shop](docs/screenshots/04_permanent_shop.png) |
+| ![Arena Gameplay](docs/screenshots/02_gameplay.png) | ![Cyber Hangar](docs/screenshots/03_cyber_hangar.png) |
+| **Per-Ship Permanent Upgrade Shop** | **Pause Menu & Audio Controls** |
+| ![Permanent Shop](docs/screenshots/04_permanent_shop.png) | ![Pause Menu](docs/screenshots/05_pause_menu.png) |
 
 ---
 
